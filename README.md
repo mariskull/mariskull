@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariskull
-- From: Sweden
+- 🏠 From: Sweden 🇸🇪
 - 👀 I’m interested in: TTRPGS, Programming, Music, Games etc.
 - ⚡ Studying: 3 years of Computer Science
 - 🌱 Currently learning: Java & Discrete Maths
