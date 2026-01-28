@@ -2,7 +2,7 @@
 - 🏠 From: Sweden 🇸🇪
 - 👀 I’m interested in: TTRPGS, Programming, Music, Games etc.
 - ⚡ Studying: 3 years of Computer Science
-- 🌱 Currently learning: Java & Discrete Maths
+- 🌱 Currently learning: Application development in Java and Software security
 - 😄 Pronouns: They/Them
 
 <!---
